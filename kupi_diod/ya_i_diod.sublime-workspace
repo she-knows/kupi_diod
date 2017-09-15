@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<DOCKTYPE HTML>\n<html>\n    <head>\n        <title>КУПИ ДИОД</title>\n        <meta http-equiv=\"content-type\" content=\"text/html\";charset=\"utf-8\" />\n        <script src=\"js/jquery-3.2.0.min.js\"></script>\n        <script src=\"js/bootstrap.min.js\"></script>\n        <link rel=\"stylesheet\" href=\"css/bootstrap.min.css\">\n        <link rel=\"stylesheet\" href=\"ya_i_diod.css\">\n    </head>\n    <body>\n        <div class=\"container bg\">\n           \n            <nav class=\"navbar\">\n              <div class=\"container-fluid\">\n                <div class=\"navbar-header\">\n                      <a class=\"navbar-brand\"><img src=\"logo.png\"></a>\n                </div>\n                <ul class=\"nav nav-pills\">\n                      <li><a class=\"navigation\"><span class=\"glyphicon glyphicon-home\"></span> О компании</a></li>\n                      <li><a class=\"navigation\">Новости</a></li>\n                      <li><a class=\"navigation\">Продукция</a></li>\n                      <li><a class=\"navigation\">Проекты</a></li>\n                      <li><a class=\"navigation\">Контакты</a></li>\n                </ul>\n              </div>\n            </nav>\n            </div>\n            \n            <div class=\"container\">\n                <div class=\"row\">\n                    <div class=\"col-md-12 col-sm-12\">\n                        <img src=\"diodi.png\" class=\"diodi\">\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"container\">\n                <div class=\"row tovari\">\n                    <div class=\"col-md-3 col-sm-3\"><a>Аудиовизуальные коммплексы</a></div>\n                    <div class=\"col-md-3 col-sm-3\"><a>Светодиодные лампы</a></div>\n                    <div class=\"col-md-3 col-sm-3\"><a>Имитация пламени</a></div>\n                    <div class=\"col-md-3 col-sm-3\"><a>Светодиодные медиафасады</a></div>\n                    </div>\n                </div>\n           \n           <div class=\"container\">\n               <div class=\"row podrobnee\">\n                   <div class=\"col-md-6 col-sm-6\">\n                       <h1>Компания Nobel Trade</h1>\n                       <p>Принцип восприятия непредвзято создает паллиативный интеллект,условно. Концепция ментально оспособляет закон внешнего мира<br/><br/>Сомнение раскладывает на элементы неоднозначный структурализм. Смысл жизни профанирует принцип восприятия, отрицая очевидное. Жизнь философски ассоциирует напряженный постмодернизм. Объект деятельности означаает конфликт.</p>\n                       <button>Подробнее</button>\n                   </div>\n                   <div class=\"col-md-6 col-sm-6\">\n                       <div class=\"row\">\n                           <div class=\"col-md-12\"><h1>Новости</h1></div>\n                           <div class=\"col-md-12\">\n                               <div class=\"row novost1\">\n                                   <div class=\"col-md-2 col-sm-2\"><img src=\"novost1.png\"></div>\n                                   <div class=\"col-md-10 col-sm-10\"><a>Экраны Nobel Trade на главных площадках страны</a></div>\n                               </div>\n                           </div>\n                           \n                           <div class=\"col-md-12\">\n                                 <div class=\"row novost2\">\n                                  <div class=\"col-md-2 col-sm-2\"><img src=\"novost2.png\"></div>\n                                       <div class=\"col-md-10 col-sm-10\"><a>Новые технологии светодиодов</a></div>\n                                       </div></div>\n                           <div class=\"col-md-12\">\n                                 <div class=\"row novost3\">\n                                  <div class=\"col-md-2 col-sm-2\"><img src=\"novost3.png\"></div>\n                                     <div class=\"col-md-10 col-sm-10\"><a>Nobel Trade на выставке LED China 2014</a></div></div>\n                           </div>\n                       </div>\n                       <br/><button class=\"vsenovosti\">Все новости</button>\n                   </div>\n               </div>\n           </div>\n           <br/>\n           \n           <div class=\"container\">\n               <div class=\"row\"><h1 class=\"products\">Продукция</h1></div>\n           </div>\n           <div class=\"container\">\n               <div class=\"row\">\n                   <div class=\"col-md-3 col-sm-3\">\n                       <div class=\"category-wrap\">\n                           <h3>Открытая категория</h3>\n                           <ul>\n                               <li><a>Другая категория</a></li>\n                               <li><a>Категория третья</a></li>\n                               <li><a>Еще одна</a></li>\n                               <li><a>И последняя</a></li>\n                           </ul>\n                       </div>\n                   </div>\n                   <div class=\"col-md-9 col-sm-9\">\n                       <div class=\"row\">\n                           <div class=\"col-md-4 col-sm-4\">\n                               \n                                   <select class=\"sel\">\n                                       <option class=\"sortir\">Сортировать по наименованию</option>\n                                       <option class=\"sortir\">Сортировать по цене</option>\n                                       <option class=\"sortir\">Сортировать по популярности</option>\n                                       <option class=\"sortir\">Сортировать похуй как</option>\n                                   </select>\n                               \n                           </div>\n                           <div class=\"col-md-4 col-sm-4 col-md-offset-4 col-sm-offset-4\">\n                               <p>показывать как: <img src=\"%D0%B7%D0%BD%D0%B0%D1%87%D0%BA%D0%B8.png\"></p>\n                           </div>\n                           <div class=\"row predlozhenia\">\n                                   <div class=\"col-md-3 col-sm-3\">\n                                       <img src=\"tovar.png\">\n                                       <a>Utille2 LED Display</a><br/>\n                                       Открытая категория<br/>\n                                       <h2>59 490 p.</h2>\n                                       <p><del>62 320 p.</del></p>\n                                   </div>\n                                   <div class=\"col-md-3 col-sm-3\">\n                                       <img src=\"tovar2.png\">\n                                       <a>UfixSS LED display</a><br/>\n                                       Открытая категория\n                                       <p class=\"orange\">ожидается</p>\n                                       <h2>57 800 p.</h2>\n                                   </div>\n                                   <div class=\"col-md-3 col-sm-3\">\n                                       <img src=\"tovar.png\">\n                                       <a>UTV 1.9(1.9 mmLED display) </a><br/>\n                                       Открытая категория\n                                       <p class=\"green\">в наличии</p>\n                                       <h2>43 500 p.</h2>\n                                   </div>\n                                   <div class=\"col-md-3 col-sm-3\">\n                                       <img src=\"tovar2.png\">\n                                       <a>UMesh25 (Outdoor Fixed LED display) </a><br/>\n                                       Открытая категория\n                                       <p class=\"light-blue\">под заказ</p>\n                                       <h2>54 150 p.</h2>\n                                       <p><del>56 300 p.</del></p>\n                                   </div>\n                               </div>\n                       </div>\n                   </div>\n               </div>\n           </div>\n           \n           <div class=\"container\">\n               <div class=\"row klient\">\n                   <div class=\"col-md-5 col-sm-5\"><hr/></div>\n                   <div class=\"col-md-2 col-sm-2\">Наши клиенты:</div>\n                   <div class=\"col-md-5 col-sm-5\"><hr/></div>\n               </div>\n           </div>\n           \n           <div class=\"container\">\n               <div class=\"row\">\n                   <div class=\"col-md-2 col-sm-2\"><img class=\"kli\" src=\"%D0%BB%D0%BE%D0%B3%D0%BE1.png\"></div>\n                   <div class=\"col-md-2 col-sm-2\"><img class=\"kli\" src=\"%D0%BB%D0%BE%D0%B3%D0%BE2.png\"></div>\n                   <div class=\"col-md-2 col-sm-2\"><img class=\"kli\" src=\"%D0%BB%D0%BE%D0%B3%D0%BE3.png\"></div>\n                   <div class=\"col-md-2 col-sm-2\"><img class=\"kli\" src=\"%D0%BB%D0%BE%D0%B3%D0%BE4.png\"></div>\n                   <div class=\"col-md-2 col-sm-2\"><img class=\"kli\" src=\"%D0%BB%D0%BE%D0%B3%D0%BE1.png\"></div>\n                   <div class=\"col-md-2 col-sm-2\"><img class=\"kli\" src=\"%D0%BB%D0%BE%D0%B3%D0%BE2.png\"></div>\n               </div>\n           </div>\n           <br/>\n           <div class=\"container\">\n               <div class=\"row huinia\">\n                   <div class=\"col-md-6 col-sm-6\">\n                       <div class=\"col-md-6 col-sm-6\">@2015 \"Нобель Трейд\"<br/>Все права защищены<br/><br/>Санкт-Петербург, ул. Писюнов, д.1, оф 1</div>\n                       <div class=\"col-md-6 col-sm-6\">\n                           <div class=\"col-md-6 col-sm-6\">\n                               <ul>\n                                   <li class=\"superclass\"><a class=\"color\">Главная</a></li>\n                                   <li class=\"superclass\"><a class=\"color\">О компании</a></li>\n                                   <li class=\"superclass\"><a class=\"color\">Новости</a></li>\n                               </ul>\n                           </div>\n                           <div class=\"col-md-6 col-sm-6\">\n                               <ul>\n                                   <li class=\"superclass\"><a class=\"color\">Продукция</a></li>\n                                   <li class=\"superclass\"><a class=\"color\">Проекты</a></li>\n                                   <li class=\"superclass\"><a class=\"color\">Контакты</a></li>\n                               </ul>\n                           </div>\n                       </div>\n                   </div>\n                   <div class=\"kont\" class=\"col-md-6 col-sm-6\">\n                     <a class=\"color\"><span class=\"glyphicon glyphicon-envelope\"></span> info@nobel-trade.ru</a><br/>\n                     <a class=\"color\"><span class=\"glyphicon glyphicon-earphone\"></span> +7(912)123-12-34</a><br/>\n                     <a class=\"color\"><span class=\"glyphicon glyphicon-send\"></span> nobel-trade</a><br/>\n                     <a class=\"color\"><span class=\"glyphicon glyphicon-tasks\"></span> карта сайта</a>\n                   </div>\n               </div>\n           </div>\n    </body>\n</html>",
+			"file": "ya_i_diod.html",
+			"file_size": 11903,
+			"file_write_time": 131352506313623021,
+			"settings":
+			{
+				"buffer_size": 10763,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed');\n.container {\n    width: 1024px;\n}\n.navbar-header {\n    background-color: #346ad1;\n    position: relative;\n}\n.bg {\n    background-color: #346ad1;\n    height: 90px;\n    vertical-align: middle;\n}\n.nav nav-pills {\n    background-color: #346ad1;\n    text-align: center;\n    display: inline-block;\n    \n}\n.navigation {\n    font-weight: 45px;\n}\n.container-fluid {\n    background-color: #346ad1;\n    border: none;\n    padding: 0;\n    list-style-type: none;\n}\n.container-fluid ul {\n    list-style: none;\n    text-align: center;\n}\n.container-fluid ul li {\n    display: inline-block;\n}\n.container-fluid ul li a {\n    color: black;\n    font-family: 'Fira Sans Condensed', sans-serif;\n    float: left;\n    font-weight: 700;\n    \n}\n.diodi {\n    max-width: 100%;\n}\n.tovari {\n    background-image: url(fon.png);\n    background-size: cover;\n    height: 138px;\n    max-width: 103%;\n    padding-top: 40px;\n    text-align: center;\n    font-size: 20px;\n}\n.novost2, .novost3 {\n    padding-top: 15px;\n}\n.podrobnee {\n    text-align: justify;\n}\n.products {\n    padding-left: 20px;\n}\n\n.category-wrap {\n    padding: 7px;\n    background: white;\n    width: 200px;\n    box-shadow: 2px 2px 8px rgba(0,0,0,.1);\n    font-family: 'Fira Sans Condensed', sans-serif;\n}\n.category-wrap h3 {\n    font-size: 16px;\n    color: rgba(0,0,0,.6);\n    padding: 0 5px;\n    position: relative;\n}\n\n.category-wrap ul {\n    list-style: none;\n    padding: 0;\n    border-top: 1px solid rgba(0,0,0,.3);\n}\n.category-wrap li {\n    margin: 12px 0 0 0px;\n}\n.category-wrap a {\n    text-decoration: none;\n    display: block;\n    font-size: 13px;\n    color: rgba(0,0,0,.6);\n    padding: 5px;\n    transition: .2s linear;\n}\n.category-wrap a:after {\n    content:\"\\f18e\";\n    font-family: 'Fira Sans Condensed', sans-serif;\n    position: absolute;\n    right: 5px;\n    color: white;\n    transition: .2s linear;\n}\n.category-wrap a:hover {\n    background: #8abdef;\n    color: white;\n}\n.sel {\n    background: #edf9ff;\n    box-shadow: 5px 5px 2px rgba(0,0,0,.1);;\n    border-radius: 20px;\n}\n.sortir:hover {\n    background: #fae1e1;\n}\n.sortir {\n    \n}\n.predlozhenia {\n    text-align: center;\n}\n.orange {\n    color: white;\n    background: orange;\n}\n.green {\n    color: white;\n    background: green;\n}\n\n.light-blue {\n    color: white;\n    background: lightblue; \n}\n.klient {\n   text-align: center;\n    height: 2px;\n}\n.kli {\n  max-width: 100%;\n}\n.huinia {\n    background-color: #432bc7;\n    font-family: 'Fira Sans Condensed', sans-serif;\n    padding-top: 20px;\n    color: white;\n}\n\n.superclass {\n    list-style-type: none;\n    width: 100px;\n    padding-top: 20px;\n}\n.kont {\n    text-align: right; \n    padding-right: 20px;\n    padding-top: 20px;\n}\n.color {\n    color: white;\n}\n",
+			"file": "ya_i_diod.css",
+			"file_size": 2937,
+			"file_write_time": 131352507019890303,
+			"settings":
+			{
+				"buffer_size": 2779,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"333"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ya_i_diod.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10743,
+								10743
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ya_i_diod.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2747,
+								2747
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "ya_i_diod.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

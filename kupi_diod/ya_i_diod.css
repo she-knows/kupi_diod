@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed');
+.container {
+    width: 1024px;
+}
+.navbar-header {
+    background-color: #346ad1;
+    position: relative;
+}
+.bg {
+    background-color: #346ad1;
+    height: 90px;
+    vertical-align: middle;
+}
+.nav nav-pills {
+    background-color: #346ad1;
+    text-align: center;
+    display: inline-block;
+    
+}
+.navigation {
+    font-weight: 45px;
+}
+.container-fluid {
+    background-color: #346ad1;
+    border: none;
+    padding: 0;
+    list-style-type: none;
+}
+.container-fluid ul {
+    list-style: none;
+    text-align: center;
+}
+.container-fluid ul li {
+    display: inline-block;
+}
+.container-fluid ul li a {
+    color: black;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    float: left;
+    font-weight: 700;
+    
+}
+.diodi {
+    max-width: 100%;
+}
+.tovari {
+    background-image: url(images/fon.png);
+    background-size: cover;
+    height: 138px;
+    max-width: 103%;
+    padding-top: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+.novost2, .novost3 {
+    padding-top: 15px;
+}
+.podrobnee {
+    text-align: justify;
+}
+.products {
+    padding-left: 20px;
+}
+
+.category-wrap {
+    padding: 7px;
+    background: white;
+    width: 200px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,.1);
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+.category-wrap h3 {
+    font-size: 16px;
+    color: rgba(0,0,0,.6);
+    padding: 0 5px;
+    position: relative;
+}
+
+.category-wrap ul {
+    list-style: none;
+    padding: 0;
+    border-top: 1px solid rgba(0,0,0,.3);
+}
+.category-wrap li {
+    margin: 12px 0 0 0px;
+}
+.category-wrap a {
+    text-decoration: none;
+    display: block;
+    font-size: 13px;
+    color: rgba(0,0,0,.6);
+    padding: 5px;
+    transition: .2s linear;
+}
+.category-wrap a:after {
+    content:"\f18e";
+    font-family: 'Fira Sans Condensed', sans-serif;
+    position: absolute;
+    right: 5px;
+    color: white;
+    transition: .2s linear;
+}
+.category-wrap a:hover {
+    background: #8abdef;
+    color: white;
+}
+.sel {
+    background: #edf9ff;
+    box-shadow: 5px 5px 2px rgba(0,0,0,.1);;
+    border-radius: 20px;
+}
+.sortir:hover {
+    background: #fae1e1;
+}
+.sortir {
+    
+}
+.predlozhenia {
+    text-align: center;
+}
+.orange {
+    color: white;
+    background: orange;
+}
+.green {
+    color: white;
+    background: green;
+}
+
+.light-blue {
+    color: white;
+    background: lightblue; 
+}
+.klient {
+   text-align: center;
+    height: 2px;
+}
+.kli {
+  max-width: 100%;
+}
+.huinia {
+    background-color: #432bc7;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    padding-top: 20px;
+    color: white;
+}
+
+.superclass {
+    list-style-type: none;
+    width: 100px;
+    padding-top: 20px;
+}
+.kont {
+    text-align: right; 
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.color {
+    color: white;
+}
